@@ -1,9 +1,9 @@
 
 
-# Nombre del proyecto
+# Sistema hepático
 
 ## Estudiantes
-Nombres completos (en primer lugar el trabajo más, en último el que va a reprobar)
+Beltrán Vega Sofía, Díaz Muruaga Carlos Manuel, Maldonado Delgado Lizette 
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo1@tectijuana.edu.mx; correo2@tectijuana.edu.mx correo3@tectijuana.edu.mx
 
 ## Asignaturas o departmento donde se puede usar la Actividad
@@ -18,12 +18,13 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 Diseñar un gemelo digital de un sistema fisiológico que permita identificar las diferencias entre un paciente afectado por una enfermedad (caso) y un individuo saludable (control) para desarrollar un protocolo de tratamiento mediante un sistema de control en lazo cerrado.
 
 ## Descripción detallada del sistema
-...
+El hígado juega un papel fundamental en el metabolismo de toxinas y medicamentos.  En las enfermedades hepáticas crónicas, particularmente en la cirrosis, las alteraciones anatómicas del hígado presentan modificaciones en la circulación intrahepática que puede influir también en el metabolismo los fármacos, ya que se reduce la actividad enzimática y disminuye por tanto la depuración intrínseca de éstos.
+El circuito RLC se basa en la idea de que el hígado es un filtro metabólico que procesa sustancias (medicamentos, toxinas) que llegan a él a través del sistema sanguíneo. A medida que estas sustancias pasan por el hígado, son metabolizadas y almacenadas temporalmente. Finalmente, las sustancias metabolizadas son liberadas al flujo sanguíneo.
+El flujo sanguíneo hacia el hígado es representado por el resistor  R1​, que es baja en un paciente sano y alta en un paciente con cirrosis, simulando la circulación restringida. El resistor R2​ refleja el metabolismo hepático; en el paciente sano, es baja, indicando un metabolismo eficiente, y alta en el paciente con cirrosis, lo que simboliza un metabolismo más lento. El inductor L1​ representa el retardo metabólico: en el paciente sano es bajo, permitiendo un proceso rápido, mientras que en el paciente con cirrosis es alto, indicando un mayor retraso. El capacitor C1 Almacena las toxinas temporalmente; en el paciente sano tiene alta capacidad, mientras que en el enfermo, la capacidad es reducida. Finalmente, el capacitor C2 modela la excreción: en el paciente sano tiene alta capacidad, lo que permite una excreción rápida, y baja en el paciente con cirrosis, reflejando una excreción más lenta.
+La señal de entrada representa la concentración de medicamentos administrada a través del tiempo y se representa como Vin (t), la salida representa la concentración de la sustancia metabolizada o residual en la sangre.
 
 ## Referencias principales
-[1] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
+[1] R. Planas, R. M. Morillas, y M. Sala, “Prescripción de farmacos en insuficiencia hepática”, Gencat.cat. [En línea]. Disponible en: https://medicaments.gencat.cat/web/.content/minisite/medicaments/professionals/butlletins/boletin_informacion_terapeutica/documents/arxius/BIT_v21_n05_cast.pdf. [Consultado: 04-dic-2024].
 
-[2] P. A. Valle, L. N. Coria, C. Plata & Y. Salazar, “CAR-T cell therapy for the treatment of ALL: eradication conditions and in silico experimentation,” Hemato, vol. 2, issue 3, pp. 441-462, Jul 2021. https://doi.org/10.3390/hemato2030028 
-
-[3] MathWorks. (n.d.). Sistemas Dinámicos [Online]. Available: https://www.mathworks.com/discovery/dynamic-systems.html
+[2] R. Bravo Coello, C. Monar Goyes, V. Pacheco Moreira, y C. R. Cumanda, Eds., Clinical and therapeutic management in a patients with hepatic cirrhosis, vol. 7, núm. 4. Diciembre Especial 2021, pp. 90–112. Revista científica dominio de las ciencias, 4 de diciembre de 2021.
 
