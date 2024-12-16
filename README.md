@@ -3,7 +3,7 @@
 # Sistema hepático
 
 ## Estudiantes
-Beltrán Vega Sofía, Díaz Muruaga Carlos Manuel, Maldonado Delgado Lizette 
+Beltrán Vega Sofía, Díaz Muruaga Carlos Manuel, Maldonado Delgado Lizette, 
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21212143@tectijuana.edu.mx; l21212741@tectijuana.edu.mx, l21212168@tectijuana.edu.mx
 
 ## Asignaturas o departmento donde se puede usar la Actividad
