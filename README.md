@@ -1,7 +1,7 @@
 
 
 # Sistema hepático
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MaldonadoDelgadoLizette/Sistema-hep-tico-Cirrosis&project=Proyecto final.mlx)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MaldonadoDelgadoLizette/Sistema-hep-tico-Cirrosis&project=Proyectofinal.mlx)
 ## Estudiantes
 Beltrán Vega Sofía, Díaz Muruaga Carlos Manuel, Maldonado Delgado Lizette, 
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21212143@tectijuana.edu.mx; l21212741@tectijuana.edu.mx, l21212168@tectijuana.edu.mx
