@@ -25,4 +25,5 @@ La señal de entrada representa la concentración de medicamentos administrada a
 
 ## Referencias principales
 [1] R. Bravo Coello, C. Monar Goyes, V. Pacheco Moreira, y C. R. Cumanda, Eds., Clinical and therapeutic management in a patients with hepatic cirrhosis, vol. 7, núm. 4. Diciembre Especial 2021, pp. 90–112. Revista científica dominio de las ciencias, 4 de diciembre de 2021.
+
 [2] R. Planas, R. M. Morillas, y M. Sala, “Prescripción de farmacos en insuficiencia hepática”, Gencat.cat. [En línea]. Disponible en: https://medicaments.gencat.cat/web/.content/minisite/medicaments/professionals/butlletins/boletin_informacion_terapeutica/documents/arxius/BIT_v21_n05_cast.pdf. [Consultado: 04-dic-2024].
